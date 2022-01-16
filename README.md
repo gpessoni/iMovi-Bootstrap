@@ -3,6 +3,8 @@
 
  This project is a singlepage website, made with Boostrap. This project is a part of a Bootstrap course by Matheus Battisti from the "Hora de Codar on Youtube
  This project are made with the bootstrap Framework, HTML and CSS
+ The video with the class and the create of project are available here <a href="https://www.youtube.com/watch?v=jJUpJA1GJHw&ab_channel=MatheusBattisti-HoradeCodar"> Click here</a>
+ 
 ## Images from the project
 
   <p align="center">
