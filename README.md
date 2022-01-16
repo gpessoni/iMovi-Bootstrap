@@ -6,10 +6,12 @@
 ## Images from the project
 
   <p align="center">
-  <a href="https://getbootstrap.com/">
-    <img src="https://github.com/gpessoni/iMovi-Bootstrap/blob/main/Prints%20from%20project/1.PNG?raw=true" alt="Bootstrap logo" width="700" height="500">
-  </a>
-</p>                                                                                                                            
+    <img src="https://github.com/gpessoni/iMovi-Bootstrap/blob/main/Prints%20from%20project/1.PNG?raw=true">
+</p>    
+<hr>
+  <p align="center">
+    <img src="https://github.com/gpessoni/iMovi-Bootstrap/blob/main/Prints%20from%20project/1.PNG?raw=true">
+</p> 
 <br>
 <br>
 
