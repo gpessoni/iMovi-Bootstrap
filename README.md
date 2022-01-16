@@ -6,7 +6,7 @@
 
 ## Images from the project
 
-<img src = "https://github.com/gpessoni/iMovi-Bootstrap/blob/main/Prints%20from%20project/1.PNG?raw"  width="600" height="300>
+<img src = "https://github.com/gpessoni/iMovi-Bootstrap/blob/main/Prints%20from%20project/1.PNG?raw=true" width="600" height="300>
 <br>
 <br>
 
