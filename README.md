@@ -8,6 +8,7 @@ Images from the project
 
 
 
+<hr>
 ## Get start with Bootstrap
 <p align="center">
   <a href="https://getbootstrap.com/">
