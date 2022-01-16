@@ -47,16 +47,16 @@
     font-size  : 1.5em;
     margin-left: 0.5em;
 }
+
 #navbar-items .navbar-nav {
-    display: flex;
+    display        : flex;
     justify-content: center;
-    width: 100%;
-  }
-  
-  #navbar-items .nav-item {
+    width          : 100%;
+}
+
+#navbar-items .nav-item {
     margin: 0 1em;
-  }
+}
 
 
-  /*Silder*/
-  
+/*Silder*/
