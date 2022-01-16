@@ -1,3 +1,62 @@
-h1 {
-    color: red
+* {
+    font-family: "Lato", sans-serif;
 }
+
+.bg-primary-color {
+    background-color: #fff;
+}
+
+.bg-secondary-color {
+    background-color: #ece8ea
+}
+
+.bg-dark {
+    background-color: #050505
+}
+
+.primary-color {
+    color: #050505
+}
+
+.secondary-color {
+    color: #7a7a7a
+}
+
+#navbar {
+    border-bottom: 1px solid #7a7a7a;
+}
+
+#navbar a:hover {
+    color: #7a7a7a
+}
+
+#navbar a.active {
+    border-bottom: 1px solid #050505
+}
+
+.navbar-brand {
+    display: flex;
+}
+
+.navbar-brand img {
+    width: 40px
+}
+
+.navbar-brand span {
+    font-weight: 700;
+    font-size  : 1.5em;
+    margin-left: 0.5em;
+}
+#navbar-items .navbar-nav {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  #navbar-items .nav-item {
+    margin: 0 1em;
+  }
+
+
+  /*Silder*/
+  
