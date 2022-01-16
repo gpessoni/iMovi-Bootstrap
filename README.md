@@ -14,7 +14,7 @@
 </p> 
 <br>
 <a href=""> A Preview of the website are available here </a>
-
+<br>  <br>  
 
 ## Get start with Bootstrap
 <p align="center">
@@ -25,7 +25,7 @@
 
 <h3 align="center">Bootstrap</h3>
 
-<br>  
+
 
 
 
